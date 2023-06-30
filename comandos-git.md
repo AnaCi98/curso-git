@@ -4,4 +4,8 @@
 
 ```
 git init
+
 ```
+
+2. Esto no existio
+
